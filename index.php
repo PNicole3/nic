@@ -1,3 +1,4 @@
+<?php echo "jekoy"; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,7 +6,7 @@
 	<title>Test</title>
 </head>
 <body>
- <h1>Hello</h1>
- <h3>dito</h3>
+ 	<h1>Hello</h1>
+ 	<h3>dito</h3>
 </body>
 </html>
